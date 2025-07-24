@@ -1,0 +1,356 @@
+{
+  "ማራኪ ცЯﾑŋの™": {
+    "vendor_name": "ማራኪ ცЯﾑŋの™",
+    "activity_metrics": {
+      "total_posts": 7989,
+      "posts_per_week": 21.182954545454546,
+      "posts_per_day": 3.026136363636364,
+      "active_days": 2640,
+      "first_post": "2018-03-25T12:44:18+00:00",
+      "last_post": "2025-06-17T12:05:58+00:00",
+      "posting_consistency": 4.133673543105507,
+      "max_posts_per_day": 34,
+      "avg_posts_per_active_day": 4.337133550488599
+    },
+    "business_profile": {
+      "total_products_mentioned": 0,
+      "total_locations_mentioned": 0,
+      "price_points_count": 1346,
+      "avg_price": 1475.482912332838,
+      "median_price": 1450.0,
+      "min_price": 50.0,
+      "max_price": 21000.0,
+      "price_range": 20950.0,
+      "unique_products": [],
+      "unique_locations": [],
+      "prices_list": [
+        350.0,
+        350.0,
+        300.0,
+        2500.0,
+        3000.0,
+        3800.0,
+        4000.0,
+        4000.0,
+        4000.0,
+        3000.0,
+        3000.0,
+        3000.0,
+        1650.0,
+        1650.0,
+        4200.0,
+        4000.0,
+        4000.0,
+        1400.0,
+        1600.0,
+        1600.0
+      ],
+      "business_type": "Mid-range"
+    },
+    "lending_assessment": {
+      "lending_score": 30.48,
+      "risk_level": "High Risk",
+      "score_breakdown": {
+        "activity": 16.94636363636364,
+        "consistency": 11.732652913788986,
+        "diversity": 0.0,
+        "price_stability": 1.8038632986627037
+      }
+    }
+  },
+  "ምርጥ ዕቃ": {
+    "vendor_name": "ምርጥ ዕቃ",
+    "activity_metrics": {
+      "total_posts": 7148,
+      "posts_per_week": 24.26576139670223,
+      "posts_per_day": 3.466537342386033,
+      "active_days": 2062,
+      "first_post": "2019-10-26T13:38:07+00:00",
+      "last_post": "2025-06-19T07:24:08+00:00",
+      "posting_consistency": 3.8964719346109096,
+      "max_posts_per_day": 46,
+      "avg_posts_per_active_day": 4.995108315863033
+    },
+    "business_profile": {
+      "total_products_mentioned": 0,
+      "total_locations_mentioned": 0,
+      "price_points_count": 5884,
+      "avg_price": 1891.1762406526173,
+      "median_price": 1000.0,
+      "min_price": 10.0,
+      "max_price": 27000.0,
+      "price_range": 26990.0,
+      "unique_products": [],
+      "unique_locations": [],
+      "prices_list": [
+        3500.0,
+        100.0,
+        1200.0,
+        100.0,
+        3800.0,
+        100.0,
+        1000.0,
+        100.0,
+        1000.0,
+        900.0,
+        100.0,
+        3600.0,
+        100.0,
+        900.0,
+        100.0,
+        100.0,
+        100.0,
+        13.0,
+        1900.0,
+        100.0
+      ],
+      "business_type": "Mid-range"
+    },
+    "lending_assessment": {
+      "lending_score": 36.75,
+      "risk_level": "High Risk",
+      "score_breakdown": {
+        "activity": 19.412609117361786,
+        "consistency": 12.207056130778183,
+        "diversity": 0.0,
+        "price_stability": 5.129409925220938
+      }
+    }
+  },
+  "Sheger online-store": {
+    "vendor_name": "Sheger online-store",
+    "activity_metrics": {
+      "total_posts": 7026,
+      "posts_per_week": 32.166121648136034,
+      "posts_per_day": 4.595160235448005,
+      "active_days": 1529,
+      "first_post": "2021-04-11T10:31:03+00:00",
+      "last_post": "2025-06-19T06:31:31+00:00",
+      "posting_consistency": 5.245171315417446,
+      "max_posts_per_day": 64,
+      "avg_posts_per_active_day": 6.8412852969815
+    },
+    "business_profile": {
+      "total_products_mentioned": 0,
+      "total_locations_mentioned": 0,
+      "price_points_count": 4029,
+      "avg_price": 1951.1846612062548,
+      "median_price": 1200.0,
+      "min_price": 10.0,
+      "max_price": 120000.0,
+      "price_range": 119990.0,
+      "unique_products": [],
+      "unique_locations": [],
+      "prices_list": [
+        2900.0,
+        3400.0,
+        400.0,
+        2000.0,
+        2000.0,
+        550.0,
+        3900.0,
+        3900.0,
+        3900.0,
+        3800.0,
+        1400.0,
+        14000.0,
+        14000.0,
+        4500.0,
+        1700.0,
+        1500.0,
+        5500.0,
+        5500.0,
+        1000.0,
+        3200.0
+      ],
+      "business_type": "Mid-range"
+    },
+    "lending_assessment": {
+      "lending_score": 40.85,
+      "risk_level": "High Risk",
+      "score_breakdown": {
+        "activity": 25.73289731850883,
+        "consistency": 9.50965736916511,
+        "diversity": 0.0,
+        "price_stability": 5.609477289650039
+      }
+    }
+  },
+  "SINA KIDS/ሲና ኪድስⓇ": {
+    "vendor_name": "SINA KIDS/ሲና ኪድስⓇ",
+    "activity_metrics": {
+      "total_posts": 5850,
+      "posts_per_week": 22.889882615986586,
+      "posts_per_day": 3.2699832308552264,
+      "active_days": 1789,
+      "first_post": "2020-07-24T10:50:43+00:00",
+      "last_post": "2025-06-17T15:36:49+00:00",
+      "posting_consistency": 11.662649861002254,
+      "max_posts_per_day": 158,
+      "avg_posts_per_active_day": 8.73134328358209
+    },
+    "business_profile": {
+      "total_products_mentioned": 0,
+      "total_locations_mentioned": 0,
+      "price_points_count": 1488,
+      "avg_price": 2986.0846774193546,
+      "median_price": 1400.0,
+      "min_price": 25.0,
+      "max_price": 65000.0,
+      "price_range": 64975.0,
+      "unique_products": [],
+      "unique_locations": [],
+      "prices_list": [
+        2800.0,
+        3000.0,
+        2700.0,
+        2200.0,
+        2300.0,
+        8500.0,
+        15000.0,
+        4500.0,
+        2300.0,
+        13000.0,
+        1200.0,
+        1500.0,
+        2800.0,
+        10500.0,
+        11500.0,
+        1100.0,
+        1000.0,
+        750.0,
+        850.0,
+        700.0
+      ],
+      "business_type": "Mid-range"
+    },
+    "lending_assessment": {
+      "lending_score": 24.42,
+      "risk_level": "Very High Risk",
+      "score_breakdown": {
+        "activity": 18.31190609278927,
+        "consistency": 0.0,
+        "diversity": 0.0,
+        "price_stability": 6.1113225806451625
+      }
+    }
+  },
+  "qnash.com - ቅናሽ ®️": {
+    "vendor_name": "qnash.com - ቅናሽ ®️",
+    "activity_metrics": {
+      "total_posts": 3911,
+      "posts_per_week": 14.782397408207345,
+      "posts_per_day": 2.111771058315335,
+      "active_days": 1852,
+      "first_post": "2020-05-22T04:16:48+00:00",
+      "last_post": "2025-06-17T08:05:31+00:00",
+      "posting_consistency": 2.687225423878694,
+      "max_posts_per_day": 21,
+      "avg_posts_per_active_day": 3.3570815450643776
+    },
+    "business_profile": {
+      "total_products_mentioned": 0,
+      "total_locations_mentioned": 0,
+      "price_points_count": 3467,
+      "avg_price": 1163.3827516584943,
+      "median_price": 850.0,
+      "min_price": 28.0,
+      "max_price": 12500.0,
+      "price_range": 12472.0,
+      "unique_products": [],
+      "unique_locations": [],
+      "prices_list": [
+        3400.0,
+        350.0,
+        350.0,
+        350.0,
+        1000.0,
+        1400.0,
+        200.0,
+        7800.0,
+        600.0,
+        1500.0,
+        7800.0,
+        600.0,
+        1500.0,
+        7800.0,
+        1500.0,
+        7800.0,
+        1500.0,
+        450.0,
+        450.0,
+        450.0
+      ],
+      "business_type": "Mid-range"
+    },
+    "lending_assessment": {
+      "lending_score": 26.45,
+      "risk_level": "High Risk",
+      "score_breakdown": {
+        "activity": 11.825917926565877,
+        "consistency": 14.625549152242613,
+        "diversity": 0.0,
+        "price_stability": 0.0
+      }
+    }
+  },
+  "ልዩ እቃ": {
+    "vendor_name": "ልዩ እቃ",
+    "activity_metrics": {
+      "total_posts": 3244,
+      "posts_per_week": 9.036211699164346,
+      "posts_per_day": 1.2908873855949066,
+      "active_days": 2513,
+      "first_post": "2018-08-02T07:30:19+00:00",
+      "last_post": "2025-06-19T08:12:15+00:00",
+      "posting_consistency": 3.6883125321227634,
+      "max_posts_per_day": 20,
+      "avg_posts_per_active_day": 5.47972972972973
+    },
+    "business_profile": {
+      "total_products_mentioned": 0,
+      "total_locations_mentioned": 0,
+      "price_points_count": 1201,
+      "avg_price": 2411.840965861782,
+      "median_price": 1700.0,
+      "min_price": 28.0,
+      "max_price": 14000.0,
+      "price_range": 13972.0,
+      "unique_products": [],
+      "unique_locations": [],
+      "prices_list": [
+        3500.0,
+        1200.0,
+        4200.0,
+        2200.0,
+        2100.0,
+        3600.0,
+        2800.0,
+        1450.0,
+        1700.0,
+        650.0,
+        4700.0,
+        3100.0,
+        699.0,
+        1250.0,
+        750.0,
+        3200.0,
+        1400.0,
+        1700.0,
+        1600.0,
+        3100.0
+      ],
+      "business_type": "Mid-range"
+    },
+    "lending_assessment": {
+      "lending_score": 29.15,
+      "risk_level": "High Risk",
+      "score_breakdown": {
+        "activity": 7.228969359331477,
+        "consistency": 12.623374935754473,
+        "diversity": 0.0,
+        "price_stability": 9.294727726894257
+      }
+    }
+  }
+}
