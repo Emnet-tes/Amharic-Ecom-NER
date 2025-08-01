@@ -191,7 +191,7 @@ jupyter notebook notebooks/
 
 ## 🤝 Contributors
 
-- **Emnet Tesfa** - Lead Developer & Data Scientist
+- **Emnet Teshome** - Lead Developer & Data Scientist
 - **10 Academy** - Training Program & Mentorship
 
 ## 📄 License
